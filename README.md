@@ -23,7 +23,7 @@ Extends the citizens experience
 
 
 ##Market Offers
-* Live calculator in gold ( Price, price(NET), VAT, Import Tax )
+* Live calculator in gold ( Price, Price(NET), VAT, Import Tax )
 
 
 ##Battles
