@@ -9,12 +9,12 @@ Extends the citizens experience
 #Features
 
 ##Money Market
-* Purchase max button, which can be done in the currency following the existing money | ([max])
+* Purchase max button, which can be buy of the currency according to the existing money | ([max])
 * Display of the amount of exchange
 
 
 ##Product Market
-* Purchase max button of the product, which  can be done according to the existing money | ([max])
+* Purchase max button of the product, which can be buy according to the existing money | ([max])
 * Show the product cost in gold 
 * Live calculator the amount to be paid in currency and its value in gold
 * Display of the missing money to buy X amount of product
@@ -60,7 +60,7 @@ Extends the citizens experience
 * Install ![](http://img802.imageshack.us/img802/9304/extensiongreasemonkey.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 * Click [latest version of e-Sim extended](https://www.google.com) .
 
- 
+
 ***
 
 
