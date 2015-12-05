@@ -72,12 +72,12 @@ Extends the citizens experience
 
 
 ##Changelog
-Enter to [Changelog](http://lv-soft.github.io/e-Sim-extended/)
+Enter to [Changelog](http://lv-soft.github.io/e-Sim-extended/changelog.html)
 
 
 ***
 
 
 ##Wiki
-Enter to [Wiki](http://lv-soft.github.io/e-Sim-extended/changelog.html)
+Enter to [Wiki](http://lv-soft.github.io/e-Sim-extended/)
 
