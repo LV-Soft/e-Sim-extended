@@ -2,15 +2,19 @@
 
 Extends the citizens experience
 
-### Current version: *1.5.3*  
+### Current version: *1.7.2*  
 
 ***
 
 #Features
 
+
 ##Money Market
 * Purchase max button, which can be buy of the currency according to the existing money | ([max])
-* Display of the amount of exchange
+* Display amount of exchange
+
+##Job Market
+* Salary in gold
 
 
 ##Product Market
@@ -47,6 +51,9 @@ Extends the citizens experience
 * Button icons.
 * Button flags.
 
+##Other
+* Disable Premium Messages.
+
 
 ***
 
@@ -54,23 +61,23 @@ Extends the citizens experience
 ##Installation
 ![](http://icons.iconarchive.com/icons/google/chrome/16/Google-Chrome-icon.png) **Chrome Users**:
 * Install ![](http://dl.dropbox.com/u/89283239/icons/extension/tampermonkey.png) [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-* Click [latest version of e-Sim extended](https://www.google.com) .
+* Click [latest version of e-Sim extended](http://lv-soft.github.io/e-Sim-extended/script.user.js) .
 
 ![](http://icons.iconarchive.com/icons/photoshopedia/xedia/16/Firefox-icon.png) **Mozilla Firefox Users**:
 * Install ![](http://img802.imageshack.us/img802/9304/extensiongreasemonkey.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
-* Click [latest version of e-Sim extended](https://www.google.com) .
+* Click [latest version of e-Sim extended](http://lv-soft.github.io/e-Sim-extended/script.user.js) .
 
 
-***
+![](http://hspsms.com/images/LineSeparator.png.pagespeed.ce.6Iu0NnHsRX.png)
 
 
 ##Changelog
-Enter to [Changelog](https://github.com/LV-Soft/e-Sim-extended)
+Enter to [Changelog](http://lv-soft.github.io/e-Sim-extended/)
 
 
 ***
 
 
 ##Wiki
-Enter to [Wiki](https://github.com/LV-Soft/e-Sim-extended)
+Enter to [Wiki](http://lv-soft.github.io/e-Sim-extended/changelog.html)
 
