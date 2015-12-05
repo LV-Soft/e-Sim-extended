@@ -68,7 +68,7 @@ Extends the citizens experience
 * Click [latest version of e-Sim extended](http://lv-soft.github.io/e-Sim-extended/script.user.js) .
 
 
-![](http://hspsms.com/images/LineSeparator.png.pagespeed.ce.6Iu0NnHsRX.png)
+***
 
 
 ##Changelog
